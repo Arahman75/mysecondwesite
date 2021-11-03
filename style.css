@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(32, 32, 31);
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;   
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 40px;
+}
+.name-orange {
+    color: orange;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img {
+    width: 100%;
+}
+
+section {
+    height: 545px;
+    background-color: rgb(238, 241, 241);
+    margin-bottom: 10px;
+}
+.link-button {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.card {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 70%;
+    padding: 10px;}
+.background-change {
+    background-color: white;
+}
+#full-stack {
+    border-left: 7px solid;
+    border-color: red;
+    
+}
+#baby-web {
+    border-left: 7px solid;
+    border-color: blue;
+    
+}
+footer p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+    
+
+   
